@@ -9,5 +9,5 @@ const app = express();
 
 
 app.listen(PORT, () => {
-    console.log(`App is Running on port ${PORT}`)
+    console.log(`App is Running on port http://localhost:${PORT}`)
 });
